@@ -1,15 +1,18 @@
-<?xml version="1.0" encoding="ISO-8859-1"?>
-<rss version="2.0">
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Ibrain.Deportes</title>
-        <link>ibra300-ia.github.io/DEPORTES.rss</link>
-        <description>Esta pagina va a ser de deportes</description>
+        <link>https://ibra300-ia.github.io/DEPORTES.rss</link>
+        <description>Esta página va a ser de deportes</description>
+        <language>es-es</language>
+        <atom:link href="https://ibra300-ia.github.io/DEPORTES.rss" rel="self" type="application/rss+xml"/>
+        
         <item>
             <title>Lewandowski-Lautaro: duelo de goleadores entre algodones</title>
-            <link>
-                https://www.elmundo.es/deportes/futbol/champions-league/2025/05/05/68190222fdddff54ad8b4589.html</link>
-            <description>El polaco, baja en desde el pasado 19 de abril, podría arrancar desde el
-                banquillo y el argentino, que se lesionó en Montjuïc, trabajó el lunes con el grupo</description>
+            <link>https://www.elmundo.es/deportes/futbol/champions-league/2025/05/05/68190222fdddff54ad8b4589.html</link>
+            <description>El polaco, baja desde el pasado 19 de abril, podría arrancar desde el banquillo y el argentino, que se lesionó en Montjuïc, trabajó el lunes con el grupo</description>
+            <pubDate>Mon, 06 May 2024 08:00:00 GMT</pubDate>
+            <guid isPermaLink="false">68190222fdddff54ad8b4589</guid>
         </item>
     </channel>
 </rss>
