@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Ibrain.anime</title>
+        <link>https://somoskudasai.com/</link>
+        <description>Estas noticias son de anime</description>
+
+        <item>
+            <title>El nuevo manga de Battle Angel Alita retrasa su estreno hasta primavera de 2026</title>
+            <link>
+                https://somoskudasai.com/noticias/el-nuevo-manga-de-battle-angel-alita-retrasa-su-estreno-hasta-primavera-de-2026/</link>
+            <description>Aunque se esperaba para este año, la continuación de la saga llegará bajo
+                el título Panzer Kunst Chronicle en la próxima primavera japonesa. </description>
+        </item>
+        <item>
+            <title>El manga Missing de Anju Hino llegará a su final este mes</title>
+            <link>
+                https://somoskudasai.com/noticias/el-manga-missing-de-anju-hino-llegara-a-su-final-este-mes/</link>
+            <description>La más reciente adaptación de las novelas de Gakuto Coda concluirá con su
+                próximo capítulo el 27 de mayo.</description>
+        </item>
+        <item>
+            <title>Shinkurō, Hashiru! se despide: el manga entra en su arco final</title>
+            <link>
+                https://somoskudasai.com/noticias/shinkuro-hashiru-se-despide-el-manga-entra-en-su-arco-final/</link>
+            <description>La obra histórica de Masami Yuuki sobre el legendario Hōjō Sōun se encamina
+                a su desenlace tras más de seis años de publicación.</description>
+        </item>
+    </channel>
+</rss>

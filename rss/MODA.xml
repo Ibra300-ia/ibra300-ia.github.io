@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Ibrain.modas</title>
+        <link>https://www.modaes.com/</link>
+        <description>Estas noticias son de moda</description>
+
+        <item>
+            <title>Shein y Temu vuelcan su inversión publicitaria en Europa ante las barreras en
+                EEUU</title>
+            <link>
+                https://www.modaes.com/empresa/shein-y-temu-vuelcan-su-inversion-publicitaria-en-europa-ante-las-barreras-en-eeuu </link>
+            <description>Las dos plataformas refuerzan su presencia digital en Reino Unido y Francia
+                tras los nuevos aranceles de Estados Unidos. Las plataformas fast fashion han
+                aumentado su gasto publicitario en Europa en abril, según Sensor Tower.</description>
+        </item>
+        <item>
+            <title>Belda Llorens deshace camino y retira el ERE de extinción sobre sus trabajadores</title>
+            <link>
+                https://www.modaes.com/equipamiento/belda-llorens-deshace-camino-y-retira-el-ere-de-extincion-sobre-sus-trabajadores</link>
+            <description>La compañía histórica de hilatura presentó el procedimiento a mediados de
+                marzo después de tener que echar el cierre al negocio, no tanto por la mala
+                evolución del negocio sino por diferencias entre los accionistas de la empresa.</description>
+        </item>
+        <item>
+            <title>Armani entra en YHub: el lujo mapea la cadena de suministro del ‘made in Italy’</title>
+            <link>
+                https://www.modaes.com/equipamiento/armani-entra-en-yhub-el-lujo-mapea-la-cadena-de-suministro-del-made-in-italy</link>
+            <description>Giorgio Armani y la Fundación del Textil Italiano se incorporan como
+                inversores a YHub, compañía de trazabilidad y transición sostenible en la moda,
+                donde participan otras compañías como Brunello Cucinelli o Matteo Marzotto.
+            </description>
+        </item>
+    </channel>
+</rss>
